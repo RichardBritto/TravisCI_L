@@ -1,0 +1,4 @@
+language: java
+java:
+- 12.0.1
+script: java12 test_course.java
